@@ -1,0 +1,22 @@
+=========================================================
+VIRUSTOTAL URL SCAN REPORT & ANALYST NOTES
+=========================================================
+Scanned URL: http://id-redirection.cu.cc/
+Report Date: 2026-07-13 21:16:03 UTC
+
+Detection Ratio: 2 / 92 security vendors flagged this URL as malicious.
+
+VENDORS FLAGGING AS MALICIOUS:
+- AutoShun:             Malicious
+- Dr.Web:               Malicious
+
+DOMAIN & THREAT INTELLIGENCE:
+- TLD Analysis:         The '.cu.cc' extension is a free URL forwarding and dynamic DNS service. These services are historically heavily abused by threat actors for short-lived phishing campaigns because they require no registration fees and provide anonymity.
+- Threat Mechanism:     Credential Harvesting / Brand Impersonation (Apple).
+- Status:               Expired/Inactive (Historical Artifact).
+
+ANALYST NOTES:
+The low overall detection rate (2/92) is consistent with analyzing historical, defunct phishing infrastructure from a 2015 campaign. 
+Live security engines often re-classify expired domains as 'unrated' or 'clean' once the malicious payload is removed or the domain is parked. 
+However, the historical 'Malicious' designation by AutoShun and Dr.Web, combined with the spoofed Apple email headers, confirms the true nature of the threat.
+=========================================================

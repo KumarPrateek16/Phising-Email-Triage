@@ -1,0 +1,24 @@
+Received: from mta9.vp-email.com (mta9.vp-email.com [209.43.22.9])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 16 Jan 2015 09:59:45 +0000 (UTC)
+Received: by mta9.vp-email.com id hn3gh2163hsf for <jose@monkey.org>; Fri, 16 Jan 2015 03:44:45 -0600 (envelope-from <bounce-2027029_html-83153681-1146070-10860472-0@bounce.vp-email.com>)
+From: "Apple Store" <employment@iprovault.com>
+To: <jose@monkey.org>
+Subject: Validate Your Account Information Now
+Date: Fri, 16 Jan 2015 03:44:44 -0600
+Message-ID: <5619cbe0-fddc-407b-836c-4cf235f127d1@xtinmta143.xt.local>
+Content-Type: text/plain; charset="utf-8"
+
+Dear iTunes Customer,
+This is an automatic message sent by our security system to let you know that you have 48 hours to confirm your account information.
+Your iTunes account has been frozen because we are unable to validate your account information.
+
+Click Here To Validate Your Account
+hxxp://id-redirection.cu.cc/ 
+
+Once you have updated your account records, we will try again to validate your information and your account suspension will be lifted.
+This process does not take more than 3 minutes.
+We apologize for any inconvenience caused. 
+
+Your Sincerely,
+Apple Security Department © 2015 Apple.com All rights reserved.
