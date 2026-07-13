@@ -41,7 +41,7 @@ phishing-email-triage/
 * Defanged the URLs to prevent accidental execution (e.g., converted http://malicious-login-site.com to hxxp[://]malicious-login-site[.]com).
 
 ### 3. Open-Source Intelligence (OSINT) Verification
-* Submitted the defanged URLs to urlscan.io to safely capture the site's DOM and screenshots without exposing the local network.
+* Submitted the defanged URLs to urlscan.io but it didn't show any results.
 * Queried VirusTotal with the senders' IP addresses and extracted domains to determine reputation scores and historical malicious activity.
 
 ## 🛡️ Key Findings & Containment Recommendations
