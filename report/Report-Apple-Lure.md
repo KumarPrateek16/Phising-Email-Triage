@@ -4,14 +4,14 @@
 A credential-harvesting phishing email masquerading as the Apple Security Department was detected targeting a corporate user. The email falsely claims the user's iTunes account has been frozen and attempts to redirect them to an external, malicious domain to validate their information and steal their credentials.
 
 ## 2. Analyzed Artifacts
-* **Reported By / Recipient:** jose@monkey.org
+* **Reported By / Recipient:** `jose@monkey.org`
 * **Email Subject:** Validate Your Account Information Now
 * **Date/Time Received:** Fri, 16 Jan 2015 03:44:44 -0600
 
 ## 3. Extracted Indicators of Compromise (IoCs)
 * **Spoofed Sender Name:** Apple Store
-* **Actual Sender Address:** employment@iprovault.com
-* **Return-Path / Envelope-From:** bounce-2027029_html-83153681-1146070-10860472-0@bounce.vp-email.com
+* **Actual Sender Address:** `employment@iprovault.com`
+* **Return-Path / Envelope-From:** `bounce-2027029_html-83153681-1146070-10860472-0@bounce.vp-email.com`
 * **Sender IP Address:** 209.43.22.9 (mta9.vp-email.com)
 * **Malicious Payload URL (Defanged):** hxxp://id-redirection[.]cu[.]cc/
 
