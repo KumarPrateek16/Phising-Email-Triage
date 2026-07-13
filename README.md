@@ -22,6 +22,7 @@ phishing-email-triage/
 │        └── virustotal_analysis.txt     # VirusTotal Report summary
 └── report/
     └── Report-Apple-Lure.md                   # Final SOC triage ticket for Apple sample
+```
 
 
 
